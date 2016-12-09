@@ -1,0 +1,33 @@
+“This information is brought to you by getBash.sh.”
+“Welcome, finntaite”
+
+“Today is Fri Dec 9 09:54:25 GMT 2016.”
+
+10.8151
+“Following users are presently active:”
+
+finntait
+
+“This is Linux running on a x86_64 processor.”
+
+“Following is the uptime information:”
+ 09:54:25 up 23:21,  2 users,  load average: 0.19, 0.36, 0.31
+
+“Memory Details:”
+             total       used       free     shared    buffers     cached
+Mem:       1024380     545220     479160      16384      30948     240336
+-/+ buffers/cache:     273936     750444
+Swap:       392188     110304     281884
+
+“Disk Space Utilization:”
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/sda1       7.4G  3.8G  3.3G  54% /
+udev             10M     0   10M   0% /dev
+tmpfs           201M  9.0M  192M   5% /run
+tmpfs           501M  160K  501M   1% /dev/shm
+tmpfs           5.0M  4.0K  5.0M   1% /run/lock
+tmpfs           501M     0  501M   0% /sys/fs/cgroup
+tmpfs           101M  4.0K  101M   1% /run/user/116
+tmpfs           101M  8.0K  101M   1% /run/user/1000
+/dev/sr0         57M   57M     0 100% /media/cdrom0
+
